@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<Style id="yellow">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="white">
+		<IconStyle>
+			<Icon>
+				<href>http://www.karpaty.com.ua/gps/img/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="gray">
+		<IconStyle>
+			<color>ffe0e0e0</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="orange">
+		<IconStyle>
+			<color>ff4080ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="blue">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Українські Карпати - Блуд</name>
+		<Folder>
+			<name>M-34-108</name>
+			<Placemark>
+				<name> г. Ключ (929м)</name>
+				<description>http://www.karpaty.com.ua/gps/data/632.html</description>
+				<styleUrl>#white</styleUrl>
+				<Point>
+					<coordinates>23.60372,49.03914,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Залізнична зупинка Cтинава-Нижня</name>
+				<description>http://www.karpaty.com.ua/gps/data/738.html</description>
+				<styleUrl>#gray</styleUrl>
+				<Point>
+					<coordinates>23.674683,49.127817,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя на трасі Cтрий-Мукачево; поворот на Нижню Cтинаву; автобусна зупинка</name>
+				<description>http://www.karpaty.com.ua/gps/data/739.html</description>
+				<styleUrl>#gray</styleUrl>
+				<Point>
+					<coordinates>23.677017,49.125517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Початок пішохідного мосту через р. Cтрий</name>
+				<description>http://www.karpaty.com.ua/gps/data/740.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>23.678767,49.126217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Мінеральне джерело на околиці с. Розгірче</name>
+				<description>http://www.karpaty.com.ua/gps/data/741.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>23.68967,49.11829,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя в с. Розгірче; автобусна зупинка</name>
+				<description>http://www.karpaty.com.ua/gps/data/742.html</description>
+				<styleUrl>#gray</styleUrl>
+				<Point>
+					<coordinates>23.689733,49.117067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Церква в с. Розгірче</name>
+				<description>http://www.karpaty.com.ua/gps/data/743.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>23.688083,49.116517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Роздоріжжя в с. Розгірче - поворот з головної вулиці до скельного монастиря</name>
+				<description>http://www.karpaty.com.ua/gps/data/744.html</description>
+				<styleUrl>#orange</styleUrl>
+				<Point>
+					<coordinates>23.69475,49.1179,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cкельний монастир на околиці с. Розгірче</name>
+				<description>http://www.karpaty.com.ua/gps/data/745.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>23.70031,49.11489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Початок маршруту на г. Лопата з с. Кам'янка</name>
+				<description>http://www.karpaty.com.ua/gps/data/1271.html</description>
+				<styleUrl>#yellow</styleUrl>
+				<Point>
+					<coordinates>23.576838,49.009232,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Джерело "Жива вода", місце для відпочинку</name>
+				<description>http://www.karpaty.com.ua/gps/data/1281.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>23.570212,49.033261,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
